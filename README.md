@@ -7,7 +7,7 @@
 ## Lecture 3: Short Read Processing and Mapping (Alignment) [Duy]
 ### + [PDF](Lecture_03/)
 ### + [Google Colab]()
-## Lecture 4: Variant Calling and Genome Annotation [Hung]
+## Lecture 4: Variant Calling and Variant Classification [Hung]
 ### + [PDF](Lecture_04/)
 ### + [Google Colab]()
 ## Lecture 5: Introduction to Epigenetics and Cancer Epigenome [Loi]
