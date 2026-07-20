@@ -7,8 +7,14 @@
 ## Lecture 3: Short Read Processing and Mapping (Alignment) [Duy]
 ### + [PDF](Lecture_03/)
 ### + [Google Colab]()
+
 ## Lecture 4: Variant Calling and Variant Classification [Minh, 10-12h, 23/07/2026, SG Time]
-### + [PDF](Lecture_04/)
-### + [Google Colab]()
+
+- Variant Calling: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS5udQmcWMn-sQGjztqJZK4w-R9QsDVPxCdqwo1c0vEB-HM_c9X-SK3yQltk7HL_w/pub?start=true&loop=false&delayms=60000)
+
+- Variant Classification: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQkgP52M2vkQFtKJ69a0NuPw1GzFDnfvjIG4FpRBIunotSpFme106KOnrF0BSfTCg/pub?start=true&loop=false&delayms=60000)
+
+- Lab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
+
 ## Lecture 5: Introduction to Epigenetics and Cancer Epigenome [Loi]
 ### + [PDF](Lecture_05/)
