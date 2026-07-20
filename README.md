@@ -1,9 +1,9 @@
 # Practical Genomics and Epigenomics
 ##
 ## Lecture 1: Human Genome Project and Next Generation Sequencing (NGS) [Loi]
-### + [PDF](Lecture_01/)
+### + [PDF](Lecture_01/Genomics_01_&_02.pdf)
 ## Lecture 2: Next Generation Sequencing's (NGS) Applications in Oncology and Infectious Disease [Loi]
-### + [PDF](Lecture_02/)
+### + [PDF](Lecture_02/Genomics_01_&_02.pdf)
 ## Lecture 3: Short Read Processing and Mapping (Alignment) [Duy]
 ### + [PDF](Lecture_03/)
 ### + [Google Colab]()
