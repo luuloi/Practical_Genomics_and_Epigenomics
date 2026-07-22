@@ -7,6 +7,7 @@
 ## Lecture 3: Short Read Processing and Mapping (Alignment) [Duy]
 - Short Read Processing and Mapping - A Target Sequencing Analysis Example: [Slides](Lecture_03/PGE2026_DNAseq_BRCA1_2_UpstreamAnalysis.pdf)
 - Lab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xdS51Ow4rcv3oT_N3q4U8kYvM8fwO6Yz?usp=sharing)
+- Data: [Link](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F0%2Ffolders%2F1HF1Qe3dRG9nH-SwnVl89105MiVmtqV4O)
 - Video: [Youtube](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=5)
 
 ## Lecture 4: Variant Calling and Variant Classification [Minh, 10-12h, 23/07/2026, SG Time]
